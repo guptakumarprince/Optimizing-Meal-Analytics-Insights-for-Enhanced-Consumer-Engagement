@@ -1,0 +1,19 @@
+
+Summary Report
+---------------
+1. The most 3 popular dish is 'Spaghetti', 'Grilled Chicken', 'Caesar Salad'  with 9, 9, and 7 orders.
+2. Users aged 18-30 are the most active demographic group, showing high preference for Dinner meals.
+3. On average, Dinner sessions have the highest order value ($13.31 per session) and last 31.39 minutes.
+
+Recommendations:
+- Focus on promoting the top 3 dishes across all meal types.
+- Develop targeted marketing campaigns for the 18-30 age group.
+- Optimize the cooking session times for dinner to maintain quality and efficiency.
+
+Visualizations saved as:
+- popular_dishes
+- age_group_preferences
+- meal_type_analysis
+- rating_distribution
+- orders_by_day
+- amount_spent_by_age_group
